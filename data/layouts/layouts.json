@@ -4414,12 +4414,22 @@
     {
       "id": "LAYOUT_DAWNBRUSH_TOWN",
       "name": "DawnbrushTown_Layout",
-      "width": 20,
+      "width": 22,
       "height": 20,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Fortree",
       "border_filepath": "data/layouts/DawnbrushTown/border.bin",
       "blockdata_filepath": "data/layouts/DawnbrushTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE501",
+      "name": "Route501_Layout",
+      "width": 34,
+      "height": 28,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/Route501/border.bin",
+      "blockdata_filepath": "data/layouts/Route501/map.bin"
     }
   ]
 }

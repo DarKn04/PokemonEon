@@ -1165,3 +1165,5 @@ EventScript_VsSeekerChargingDone::
 	.include "data/scripts/apricorn_tree.inc"
 
 	.include "data/maps/DawnbrushTown/scripts.inc"
+
+	.include "data/maps/Route501/scripts.inc"
