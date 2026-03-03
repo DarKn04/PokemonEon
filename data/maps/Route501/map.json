@@ -16,7 +16,7 @@
     {
       "map": "MAP_DAWNBRUSH_TOWN",
       "offset": 0,
-      "direction": "up"
+      "direction": "down"
     }
   ],
   "object_events": [],

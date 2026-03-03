@@ -4424,7 +4424,7 @@
     {
       "id": "LAYOUT_ROUTE501",
       "name": "Route501_Layout",
-      "width": 34,
+      "width": 20,
       "height": 28,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Fortree",
